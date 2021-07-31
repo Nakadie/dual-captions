@@ -371,6 +371,8 @@ class App extends React.Component {
                   <Option value='en'>English</Option>
                   <Option value='fr'>Français</Option>
                   <Option value='zh-tw'>中文 (繁體)</Option>
+                  <Option value='jp'>日本語</Option>
+                  
                 </Select>
               </div>
             </div>
